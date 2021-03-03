@@ -1,0 +1,75 @@
+
+
+/* header-section */
+
+.header-section{
+
+}
+
+/* profile-info */
+
+.profile-info{
+    background-color:#f9f9ff ;
+}
+.profile-details a{
+
+}
+
+
+/* position-parsantis */
+
+.position-parsantis{
+    background-color: #8490ff;
+}
+.position-parsantis h1{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+
+/* service-section */
+
+.service-section{
+    background-color: #f9f9ff;
+    
+    
+}
+
+.number {
+	text-decoration: none;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	font-size: 45px;
+	border-radius: 50%;
+	background-color: #f9f9ff;
+	color: #000;
+	line-height: 94px;
+	font-weight: bold;
+}
+
+.service-section-innar ul li{
+    list-style: none;
+}
+
+.service-section-innar{
+    width: 29%;
+    box-sizing: border-box;
+}
+
+/* about-section */
+.about-section img {
+	width: 100px;
+	margin-top: -64px;
+}
+.about-section{
+margin-left: 25px;
+box-sizing: border-box;
+width: 22%;
+}
+
+/* form-section */
+
+.form-section{
+    background-color:#f9f9ff ;
+}
